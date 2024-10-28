@@ -193,6 +193,7 @@ header .main .search .input{
     justify-content: space-between;
     border: 1px solid #99999938;
     border-radius: 8px;
+       z-index: 101;
 }
 header .main .search .input input{
 border: none;
